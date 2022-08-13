@@ -1,6 +1,6 @@
 # arc-updater
 
-Simple executable to update arcdps from [https://www.deltaconnected/arcdps/"](https://www.deltaconnected.com/arcdps/)
+Simple executable to update arcdps from https://www.deltaconnected.com/arcdps/
 
 Only requirement is that you place it in a folder inside of your ../Guild Wars 2/ directory. Such as ../Guild Wars 2/arc-updater/
 
