@@ -102,7 +102,7 @@ func main() {
 	} else {
 		fmt.Println("Bad Response from https://www.deltaconnected.com/arcdps/ - Exiting.")
 	}
-	fmt.Println("Finished - Press any key to exit.")
+	fmt.Println("Finished - Press Enter to exit.")
 	fmt.Scanln()
 }
 
